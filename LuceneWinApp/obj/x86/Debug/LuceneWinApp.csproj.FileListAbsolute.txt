@@ -1,0 +1,17 @@
+F:\test\lucenenet\LuceneWinApp\bin\Debug\LuceneWinApp.exe.config
+F:\test\lucenenet\LuceneWinApp\bin\Debug\LuceneWinApp.exe
+F:\test\lucenenet\LuceneWinApp\bin\Debug\LuceneWinApp.pdb
+F:\test\lucenenet\LuceneWinApp\bin\Debug\DotNet.Common.Util.dll
+F:\test\lucenenet\LuceneWinApp\bin\Debug\DotNet.Common.WinForm.dll
+F:\test\lucenenet\LuceneWinApp\bin\Debug\DotNet.SQLServer.DataAccess.dll
+F:\test\lucenenet\LuceneWinApp\bin\Debug\Lucene.Net.dll
+F:\test\lucenenet\LuceneWinApp\bin\Debug\DotNet.Common.Util.pdb
+F:\test\lucenenet\LuceneWinApp\bin\Debug\DotNet.Common.WinForm.pdb
+F:\test\lucenenet\LuceneWinApp\bin\Debug\DotNet.SQLServer.DataAccess.pdb
+F:\test\lucenenet\LuceneWinApp\obj\x86\Debug\LuceneWinApp.csprojResolveAssemblyReference.cache
+F:\test\lucenenet\LuceneWinApp\obj\x86\Debug\LuceneWinApp.MainForm.resources
+F:\test\lucenenet\LuceneWinApp\obj\x86\Debug\LuceneWinApp.Properties.Resources.resources
+F:\test\lucenenet\LuceneWinApp\obj\x86\Debug\LuceneWinApp.SearchForm.resources
+F:\test\lucenenet\LuceneWinApp\obj\x86\Debug\LuceneWinApp.csproj.GenerateResource.Cache
+F:\test\lucenenet\LuceneWinApp\obj\x86\Debug\LuceneWinApp.exe
+F:\test\lucenenet\LuceneWinApp\obj\x86\Debug\LuceneWinApp.pdb

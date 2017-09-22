@@ -1,0 +1,4 @@
+F:\test\lucenenet\DotNet.Common.Util\bin\Debug\DotNet.Common.Util.dll
+F:\test\lucenenet\DotNet.Common.Util\bin\Debug\DotNet.Common.Util.pdb
+F:\test\lucenenet\DotNet.Common.Util\obj\Debug\DotNet.Common.Util.dll
+F:\test\lucenenet\DotNet.Common.Util\obj\Debug\DotNet.Common.Util.pdb

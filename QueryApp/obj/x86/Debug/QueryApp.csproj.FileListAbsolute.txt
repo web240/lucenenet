@@ -1,0 +1,9 @@
+F:\test\lucenenet\QueryApp\bin\Debug\PanGu.xml
+F:\test\lucenenet\QueryApp\bin\Debug\QueryApp.exe
+F:\test\lucenenet\QueryApp\bin\Debug\QueryApp.pdb
+F:\test\lucenenet\QueryApp\bin\Debug\Lucene.Net.dll
+F:\test\lucenenet\QueryApp\bin\Debug\PanGu.dll
+F:\test\lucenenet\QueryApp\bin\Debug\PanGu.Lucene.Analyzer.dll
+F:\test\lucenenet\QueryApp\obj\x86\Debug\QueryApp.csprojResolveAssemblyReference.cache
+F:\test\lucenenet\QueryApp\obj\x86\Debug\QueryApp.exe
+F:\test\lucenenet\QueryApp\obj\x86\Debug\QueryApp.pdb

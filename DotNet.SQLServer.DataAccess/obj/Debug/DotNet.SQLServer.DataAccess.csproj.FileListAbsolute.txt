@@ -1,0 +1,4 @@
+F:\test\lucenenet\DotNet.SQLServer.DataAccess\bin\Debug\DotNet.SQLServer.DataAccess.dll
+F:\test\lucenenet\DotNet.SQLServer.DataAccess\bin\Debug\DotNet.SQLServer.DataAccess.pdb
+F:\test\lucenenet\DotNet.SQLServer.DataAccess\obj\Debug\DotNet.SQLServer.DataAccess.dll
+F:\test\lucenenet\DotNet.SQLServer.DataAccess\obj\Debug\DotNet.SQLServer.DataAccess.pdb

@@ -1,0 +1,6 @@
+F:\test\lucenenet\DotNet.Common.WinForm\bin\Debug\DotNet.Common.WinForm.dll
+F:\test\lucenenet\DotNet.Common.WinForm\bin\Debug\DotNet.Common.WinForm.pdb
+F:\test\lucenenet\DotNet.Common.WinForm\obj\Debug\DotNet.Common.WinForm.PagerControl.resources
+F:\test\lucenenet\DotNet.Common.WinForm\obj\Debug\DotNet.Common.WinForm.csproj.GenerateResource.Cache
+F:\test\lucenenet\DotNet.Common.WinForm\obj\Debug\DotNet.Common.WinForm.dll
+F:\test\lucenenet\DotNet.Common.WinForm\obj\Debug\DotNet.Common.WinForm.pdb
